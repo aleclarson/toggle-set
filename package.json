@@ -1,0 +1,7 @@
+{
+  "name": "toggle-set",
+  "version": "0.0.1",
+  "dependencies": {
+    "umbrella": "aleclarson/umbrella#3.5.2"
+  }
+}
