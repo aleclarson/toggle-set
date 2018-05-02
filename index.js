@@ -1,5 +1,5 @@
 
-const $ = require('umbrella')
+const $ = require('dough')
 
 // A group of toggles where only one can be "on" at any time.
 export class ToggleSet {
